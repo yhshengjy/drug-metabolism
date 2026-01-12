@@ -1,3 +1,3 @@
-All datasets used in this study were obtained from publicly available sources reported in previously published studies.
+To enable a consistent comparison across different classification models and to ensure fairness in performance evaluation, our study directly adopted the drug–microbiota metabolism dataset curated by Zheng et al.
 
-Zhang D, Xia S, Zhang Y. Accurate Prediction of Aqueous Free Solvation Energies Using 3D Atomic Feature-Based Graph Neural Network with Transfer Learning. J Chem Inf Model 2022; 62:1840-8
+Zheng S, Wang L, Xiong J, Liang G, Xu Y, Lin F. Consensus Prediction of Human Gut Microbiota-Mediated Metabolism Susceptibility for Small Molecules by Machine Learning, Structural Alerts, and Dietary Compounds-Based Average Similarity Methods. J Chem Inf Model 2022; 62:1078-99.
